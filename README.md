@@ -1,6 +1,6 @@
 ### Hi, I'm Jack.
 
-- 🗺️ I'm a full-stack web developer living in **Leeds, UK**.
-- 🔭 I’m currently working on a **spaced repetition language learning app**.
-- 🌱 I’m currently learning **iOS development** with **Swift** and **SwiftUI**.
+- 🗺️ I'm a full-stack web developer living in **a campervan**.
+- 🔭 I’m working on a [WeRoster](https://weroster.co.nz), [Slim Chat](https://slim.chat) and freelancing!
+- 🌱 I’m learning **Swift**, **React Native** and **Rust**.
 - 🖥️ Check out my portfolio at [jack.kiwi](https://jack.kiwi).
